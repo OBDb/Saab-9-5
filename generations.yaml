@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Saab_9-5"
+
 generations:
   - name: "First Generation"
     start_year: 1997
